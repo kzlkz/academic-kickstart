@@ -17,19 +17,15 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Bsc in Computer Science"
+  course = "Bsc in Electronic and Computer Engineering"
   institution = "ShangHai Jiao Tong University"
   year = 2018
 
 [[education.courses]]
-  course = ""
-  institution = ""
-  year = 
+  course = "Bsc in Computer Science"
+  institution = "University of Michigan"
+  year = 2020
 
-[[education.courses]]
-  course = ""
-  institution = ""
-  year = 
  
 +++
 
