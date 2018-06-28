@@ -273,8 +273,8 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
+  name = "CV"
+  url = "/static/files/ZekunLi_resume"
   weight = 5
 
 [[menu.main]]
